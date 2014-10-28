@@ -1,0 +1,9 @@
+Building Cetus
+
+See doc/readme-qt.rst for instructions on building Cetus QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Cetus.
+
+See doc/build-*.txt for instructions on building Cetusd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Cetus.
