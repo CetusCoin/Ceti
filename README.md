@@ -41,9 +41,9 @@ Premine 100,000 CETI
 
 Services
 
-blockchain exporer,rich list: http://blockexperts.com/ceti
+blockchain explorer,rich list: http://blockexperts.com/ceti
 
-blockchain exporer: http://cryptobe.com/chain/CetusCoin
+blockchain explorer: http://cryptobe.com/chain/CetusCoin
 
 
 
