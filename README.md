@@ -10,6 +10,8 @@ Bitcointalk ANN: https://bitcointalk.org/index.php?topic=790782.0
 
 twitter: https://twitter.com/CetusCoin
 
+reddit: https://www.reddit.com/r/cetuscoin/
+
 IRC: https://kiwiirc.com/client/irc.freenode.net?channel=#Cetus
 
 
